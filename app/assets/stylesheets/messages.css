@@ -1,7 +1,7 @@
 .wrapper {
   display: flex;
 }
-..side-bar {
+.side-bar {
   background-color: #253141;
   width: 300px;
   height: 100vh;
